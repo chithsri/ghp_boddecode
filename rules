@@ -1,0 +1,10 @@
+rules/
+├── web/
+│   └── react/
+│       └── example.md
+├── backend/
+│   └── python/
+│       └── example.md
+└── mobile/
+    └── flutter/
+        └── example.md
